@@ -1,0 +1,3 @@
+[submodule "ReadingTomBookService"]
+	path = ReadingTomBookService
+	url = https://github.com/pandiaaman/ReadingTomBookService.git
