@@ -4,3 +4,6 @@
 [submodule "quizApiGateway"]
 	path = quizApiGateway
 	url = https://github.com/pandiaaman/quizApiGateway.git
+[submodule "ReadingTomBarcodeVerificationService"]
+	path = ReadingTomBarcodeVerificationService
+	url = https://github.com/pandiaaman/ReadingTomBarcodeVerificationService.git
