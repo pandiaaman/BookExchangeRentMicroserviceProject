@@ -7,3 +7,6 @@
 [submodule "ReadingTomBarcodeVerificationService"]
 	path = ReadingTomBarcodeVerificationService
 	url = https://github.com/pandiaaman/ReadingTomBarcodeVerificationService.git
+[submodule "quizServiceRegistry"]
+	path = quizServiceRegistry
+	url = https://github.com/pandiaaman/quizServiceRegistry.git
