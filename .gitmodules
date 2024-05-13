@@ -10,3 +10,6 @@
 [submodule "quizServiceRegistry"]
 	path = quizServiceRegistry
 	url = https://github.com/pandiaaman/quizServiceRegistry.git
+[submodule "MicorserviceHotelRatingAppUserService"]
+	path = MicorserviceHotelRatingAppUserService
+	url = https://github.com/pandiaaman/MicorserviceHotelRatingAppUserService.git
