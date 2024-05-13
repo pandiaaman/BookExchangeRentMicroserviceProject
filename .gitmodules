@@ -1,3 +1,6 @@
 [submodule "ReadingTomBookService"]
 	path = ReadingTomBookService
 	url = https://github.com/pandiaaman/ReadingTomBookService.git
+[submodule "quizApiGateway"]
+	path = quizApiGateway
+	url = https://github.com/pandiaaman/quizApiGateway.git
